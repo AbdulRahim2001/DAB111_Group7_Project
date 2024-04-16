@@ -12,17 +12,13 @@ The repository is organized as follows:
 - `py.ipynb` : py file has importing data code from csv file.
 - `README.md`: This file providing an overview of the project.
 - `requirements.txt`: Contains the list of required packages to run the project.
-- `transaction_data.db`: this database file in which we have data init.
 
 ## Setup Instructions
 
-1. Clone this repository to your local machine.
-2. Install the required packages by running:
-
-3. Ensure you have the SQLite database file (`transaction_data.db`) with the necessary data.
-4. Run the Flask application by executing:
-
-5. Access the website in your web browser at `http://127.0.0.1:5000/`.
+1. Clone this repository to your local machine:  git clone https://github.com/AbdulRahim2001/DAB111_Group7_Project.git
+2. Install the required packages by running: pip install requirements.txt
+3. Run the Flask application by executing: python app.py
+4. Access the website in your web browser at `http://127.0.0.1:5000/`.
 
 ## Usage
 
